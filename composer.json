@@ -1,0 +1,19 @@
+{
+  "name": "drumkilla/tasks-app",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "drumkilla",
+      "email": "drumkillamusic@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
